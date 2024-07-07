@@ -26,6 +26,8 @@ We will make models of different proteins:
 - `XPF` + `RPA1` + `ERCC1`
 - `XPF` + `RPA1` + `ERCC1` + `DNA sequence`
 - `XPF` + `ERCC1` + `DNA sequence`
+
+
 # A. Generating Models
 ## 1. Fetching Sequences
 
@@ -36,7 +38,10 @@ To get the sequence, two options are possible:
 1. The "original" one, go to https://www.uniprot.org/ and paste the Uniprot Code in the search field, download the fasta by clicking on `Download`, and copy the sequence.  
 **HOWEVER**, AlphaFold3 web server requires a **linear** sequence (without line breaks). So either remove it... Or use option 2 😉
 ![alt text](imgs/uniprot_download.png)
-2. For the sake of this practical, to avoid losing too much time on details, I have prepared a ColabFold notebook to print the sequence from a list of Uniprot IDs.  
+2. For the sake of this practical, to avoid losing too much time on details, I have prepared a ColabFold notebook to print the sequence from a list of Uniprot IDs.  [Open it on Google Colab](https://colab.research.google.com/github/tubiana/practicals_AI-biology-genetics/blob/main/Get_sequence_for_AF3.ipynb)  
+<a target="_blank" href="https://colab.research.google.com/github/tubiana/practicals_AI-biology-genetics/blob/main/Get_sequence_for_AF3.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>  
 ![alt text](imgs/colab_get_sequence.png)
 
 ## 2. Generating Models with AF3
@@ -62,7 +67,10 @@ Once the models are done, you can download them, but I will ask you to upload th
 1. Download the results archive (in zip) by clicking on the menu button right after the job name.
 2. Upload them on https://filebin.net and copy the direct link only.  
 ![alt text](imgs/filebin_tuto.png)
-3. Go to TODOURL and paste it in the field.  
+3. Open the [analysis notebook](https://colab.research.google.com/github/tubiana/practicals_AI-biology-genetics/blob/main/Display_AF3_results.ipynb) and paste it in the field.   
+<a target="_blank" href="https://colab.research.google.com/github/tubiana/practicals_AI-biology-genetics/blob/main/Display_AF3_results.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 ![alt text](imgs/colab_analysis_pastelink.png)
 4. `Runtime > Run all`.  
 ![alt text](imgs/colab_analysis_runall.png)
