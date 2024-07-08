@@ -27,6 +27,12 @@ We will make models of different proteins:
 - `XPF` + `RPA1` + `ERCC1` + `DNA sequence`
 - `XPF` + `ERCC1` + `DNA sequence`
 
+## Uniprot IDS
+Q92889,P27697,P07992
+- XPF : `Q92889`
+- RPA1 : `P27697`
+- ERCC1 : `P07992`
+- the DNA sequence : ``
 
 # A. Generating Models
 ## 1. Fetching Sequences
