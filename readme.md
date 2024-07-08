@@ -79,6 +79,18 @@ Once the models are done, you can download them, but I will ask you to upload th
 5. Wait a few minutes, and check the results 😉
 
 
-# Final words
-This was just an introduction, if you want to know more, you have plenty of tutorials on youtube ;)
+## Questions
+To help the biologist with their issue, answer those questions : 
+1. Is their any disordered regions ?
+2. Is XPF and ERCC1 interact together ?
+3. Is XPF and RPA1 or ERCC1 and RPA1 interact together ?
+4. Where could be located the DNA ?
+5. How confident are you with the DNA location ?
+
+
+
+
+
+
+
 
