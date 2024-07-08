@@ -44,8 +44,8 @@ Here we will try 2 models with 2 and then 3 proteins.
 
 To get the sequence, two options are possible: 
 1. The "original" one, go to https://www.uniprot.org/ and paste the Uniprot Code in the search field, download the fasta by clicking on `Download`, and copy the sequence.  
-**HOWEVER**, AlphaFold3 web server requires a **linear** sequence (without line breaks). So either remove it... Or use option 2 😉
-![alt text](imgs/uniprot_download.png)
+**HOWEVER**, AlphaFold3 web server requires a **linear** sequence (without line breaks). So either remove it... Or use option 2 😉 <details close> <summary>example on uniprot</summary> 
+  ![alt text](imgs/uniprot_download.png) </details>
 2. For the sake of this practical, to avoid losing too much time on details, I have prepared a ColabFold notebook to print the sequence from a list of Uniprot IDs. ➡️ <a target="_blank" href="https://colab.research.google.com/github/tubiana/practicals_AI-biology-genetics/blob/main/Get_sequence_for_AF3.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
    ![alt text](imgs/colab_get_sequence.png)
 
