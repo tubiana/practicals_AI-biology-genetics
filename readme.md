@@ -81,9 +81,9 @@ Once the models are done, you can download them, but I will ask you to upload th
 
 ## Questions
 To help the biologist with their issue, answer those questions : 
-1. Is their any disordered regions ?
-2. Is XPF and ERCC1 interact together ?
-3. Is XPF and RPA1 or ERCC1 and RPA1 interact together ?
+1. Is there any disordered regions ?
+2. Are XPF and ERCC1 interact together ?
+3. Are XPF and RPA1 or ERCC1 and RPA1 interact together ?
 4. Where could be located the DNA ?
 5. How confident are you with the DNA location ?
 
