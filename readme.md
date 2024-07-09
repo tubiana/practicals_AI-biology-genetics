@@ -24,7 +24,6 @@ They told me that ERCC4 and ERCC1 interact, but they are not sure about RPA1. Th
 To answer their questions, We will make models of different proteins: 
 - `XPF` + `ERCC1`
 - `XPF` + `RPA1` + `ERCC1`
-- `XPF` + `RPA1` + `ERCC1` + `DNA sequence`
 - `XPF` + `ERCC1` + `DNA sequence`
 
 ## Uniprot IDS
